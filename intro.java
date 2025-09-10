@@ -2,10 +2,12 @@ public class intro {
     
     public static void main(String s[]){
         System.out.println("Hello World");
+        System.out.println(23);
 
     }
 }
 
+ // anything
 
 // public  -> access modifier -> 
 // static -> doesn't require an instance of the class to be invoked
