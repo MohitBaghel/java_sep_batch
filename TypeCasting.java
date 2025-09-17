@@ -6,7 +6,7 @@ public class TypeCasting {
 
 
         double d1 = 4.90;
-        int num1 = (int) d;
+        int num1 = (int) d1;
         System.out.println("Double value: " + d1);
 
         System.out.println("Double value: " + num1);
@@ -15,6 +15,9 @@ public class TypeCasting {
 
         // System.out.println("Integer value: " + num);
         // System.out.println(d);
+
+
+        // next session -> Strings
 
     }
 }
