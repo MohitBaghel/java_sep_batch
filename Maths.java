@@ -21,3 +21,6 @@ public class Maths {
     }
     
 }
+
+
+// if-else, switch , loops - for, while, do-while
