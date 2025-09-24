@@ -11,11 +11,27 @@ public class forLoop {
 
 
 
-        for(int i = 21; i <= 40; i++){ 
-            System.out.println("Batch 2, Roll no : " + i);
-        }
+        // for(int i = 1; i <= 3; i++){   // i = 
+        //   System.out.println("Outer loop: " + i); // ol 1
 
-        System.out.println("Batch 2 Viva is done");
+
+        //   // inner loop
+        //   for(int j = 1; j <= 3; j++){ // j =3
+        //     System.out.println("    Inner loop: " + j); // il = 3
+        //   }
+        // }
+
+        // System.out.println("For loop ended");
+
+
+
+        String [] fruits = { "Apple", "Banana", "Mango", "Orange"};
+
+
+        for(String fruit : fruits){
+              System.out.println(fruit);
+        }
+      
     }
     
 }
