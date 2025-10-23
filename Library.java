@@ -1,6 +1,10 @@
 public class Library {
 
     public static void main(String[] args) {
+
+        try {
+
+    
         // create new object
         LibrarySystem book1 = new LibrarySystem();
         book1.addBook(1,"DP) Dynamic programming", 1500);
@@ -13,7 +17,9 @@ public class Library {
         book2.IssueBook();
         book2.submitBook();
 
-    }
+        } catch(Exception e){
+            System.out.println("Error: "+ e.getMessage());
+        }
 
     
 }
