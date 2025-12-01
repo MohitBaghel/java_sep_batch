@@ -24,12 +24,7 @@ public class Files {
             System.out.println("Successfully wrote to the file.");
 
 
-            // write
-            // String name = "java";
-            // FileOutputStream outputStream = new FileOutputStream("/Users/perennial/Desktop/Java_Sep_Batch.txt", true);
-            // outputStream.write(name.getBytes()); //converting string into byte array
-            // System.out.println("Successfully wrote to the file.");
-
+    
 
             // read
             // Scanner sc = new Scanner(fl);
