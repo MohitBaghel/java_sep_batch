@@ -1,4 +1,3 @@
-import java.beans.Statement;
 
 public class forLoop {
 
@@ -31,6 +30,10 @@ public class forLoop {
         for(String fruit : fruits){
               System.out.println(fruit);
         }
+
+        // for ( int i=0; i<=100; i++){
+        //     System.out.println(i);
+        // }
       
     }
     
