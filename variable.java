@@ -44,5 +44,6 @@ public class variable {
     }
 }
 
+// dataTypes -> String, int, float, char, boolean, double
 
 // variable , datatype, typecasting, reserved keyword

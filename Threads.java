@@ -13,6 +13,17 @@ public class Threads {
         task3.start();
         task4.start();
 
+        // Thread task1 = new Thread(new MyRunnableThread("ChefA"));
+        // Thread task2 = new Thread(new MyRunnableThread("ChefB"));
+        // Thread task3 = new Thread(new MyRunnableThread("ChefC"));
+        // Thread task4 = new Thread(new MyRunnableThread("ChefD"));
+
+        // task1.start();
+        // task2.start();
+        // task3.start();
+        // task4.start();
+
+
     }
     
 }

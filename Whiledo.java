@@ -25,13 +25,24 @@ public class Whiledo {
     // } while(i<5);
 
 
-    int i = 10;
-    while(i > 0){
-        System.out.println(i); 
-        i--;
+    // int i = 10;
+    // while(i > 0){
+    //     System.out.println(i); 
+    //     i--;
+    // }
+
+    // System.out.println("Happy New year 2k26!");
+
+    int i = 0 ;  
+    while(i<10){ // i = 10   10 < 10
+        System.out.println("Counters: " + i); // 0
+        i++;
     }
 
-    System.out.println("Happy New year 2k26!");
+    System.out.println("Loop ended");
+
+
+
 
 
 }

@@ -26,7 +26,7 @@ public class BankingSystem {
 
 
 
- class Bank{
+  protected class Bank{
 
     int account_number;
     String name;

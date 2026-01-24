@@ -19,5 +19,11 @@ public class TypeCasting {
 
         // next session -> Strings
 
+        // Type casting -> converting one data type to another data type
+        // 1. Widening Casting() -> automatic type conversion -> smaller to larger data type
+            //byte -> short -> int -> long -> float -> double
+        // 2. Narrowing Casting() -> manual type conversion -> larger to smaller data type
+            // double -> float -> long -> int -> short -> byte    
+
     }
 }

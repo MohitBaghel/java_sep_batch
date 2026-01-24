@@ -56,15 +56,18 @@ public class Strings {
         int d = 20;
         String c = a + b;
 
-    System.out.println("The value of c is: " + (d+a));
+    System.out.println("The value of c is: " + (d+a).trim());
+
+
+    System.out.println(10 + "Mohit");
 
         
 
 
+// +, concat(),
 
 
-
-
+// 10 + "mohit"
 
     }
 }

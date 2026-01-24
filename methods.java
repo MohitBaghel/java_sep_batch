@@ -1,6 +1,9 @@
 public class methods {
 
     public static void main(String[] args) {
+
+        int x  = 10;
+
         
         // int num [] = {10, 20, 30, 40, 50 }; 
 
@@ -27,6 +30,12 @@ public class methods {
 
         return "javaSession";
        
+    }
+
+
+    public int add(int a, int b){
+        int result =  a+b;
+        return result;
     }
 
 
