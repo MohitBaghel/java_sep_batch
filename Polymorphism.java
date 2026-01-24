@@ -16,6 +16,7 @@ public class Polymorphism {
 }
 
 
+// Superclass
 class Animal{
     void sound(){
         System.out.println("Animal makes a sound");
@@ -23,14 +24,14 @@ class Animal{
 }
 
 
-
+// subclasses1
 class Lion extends Animal{
     void sound(){
         System.out.println("Lion roars");
     }
 }
 
-
+// subclasses2
 class Cat extends Animal{
     void sound(){
         System.out.println("Cat meows");
@@ -38,7 +39,7 @@ class Cat extends Animal{
 }
 
 
-
+// subclasses3
 class Dog extends Animal{
     void sound(){
         super.sound();
