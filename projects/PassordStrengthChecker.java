@@ -64,3 +64,8 @@ public class PassordStrengthChecker {
             }
     
 }
+
+
+// create a func. -> input from user -> create func check password strength 
+// -> checklength -> score++
+// > take booleans -> then checkl ch ->  4 cases ( upper, lower, digit, special) -> change boolean  -> score++ for each case
