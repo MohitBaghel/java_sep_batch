@@ -106,8 +106,6 @@ public class EmployeeManagementSystem {
             System.err.println("Employee with ID " + id + " not found.");
         }
 
-
-
         static void deleteEmployee(){
 
         System.out.println("Enter Employee ID to delete: ");
@@ -120,11 +118,9 @@ public class EmployeeManagementSystem {
                 return;
             }
         }
-
         System.out.println("No Employee Found");
 
         }
-
 
         static void updateEmployee(){
                 System.out.println("Employee ID to update: ");

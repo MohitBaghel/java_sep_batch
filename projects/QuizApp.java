@@ -70,7 +70,9 @@ public class QuizApp {
     
 }
 
-
+// task -> String title -> boolean isTaskComplete
+// constructor -> title, isTaskComplete
+// void class to display
 
 class Question {
 
